@@ -5,6 +5,9 @@
 - 🔭 Atualmente estou buscando uma vaga de desenvolvedor júnior
 - 🌱 Estou aprendendo Java, Spring, Angular e Typescript
 - 😄 Pronomes: ele/dele
+- ⚡ frase = Quanto mais a gente rala, mais a gente cresce.
+<img align="center" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif?raw=true" alt="homem letra" height="147" width="94" /> ...
+
 <div align="center">
   <a href="https://github.com/Fernando-Oliver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Oliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
