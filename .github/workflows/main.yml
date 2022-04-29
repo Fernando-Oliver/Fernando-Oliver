@@ -1,4 +1,4 @@
-Fernando-OliverFernando-OliverFernando-OliverFernando-OliverFernando-OliverFernando-Olivername: Generate Datas
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
