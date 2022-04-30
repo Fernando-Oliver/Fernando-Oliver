@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou buscando uma vaga de desenvolvedor júnior
 - 🌱 Estou aprendendo Java, Spring, Angular e Typescript
 - 😄 Pronomes: ele/dele
-- ⚡ frase - Quanto mais a gente rala, mais a gente cresce.
+- ⚡ Frase - Quanto mais a gente rala, mais a gente cresce.
 <img align="center" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif?raw=true" alt="homem letra" height="147" width="94" /> ...
 
 <div align="center">
